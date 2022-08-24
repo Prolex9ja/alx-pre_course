@@ -1,2 +1,2 @@
 I enjoy coding :)
-I enjoy Learning with ALX :)
+I enjoy Learning with ALX! ;)
